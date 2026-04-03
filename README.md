@@ -16,7 +16,7 @@ This is a simple Python project that simulates rolling 2 dies. Each run generate
 
 ##  How to Run
 
-1. Make sure Pycharm is installed
+1. Make sure Python is installed
 2. Download the file
 3. Run this command:
 
@@ -39,4 +39,5 @@ README.md
 
 ##  Author
 
-Bog
+Basim Afridi
+
